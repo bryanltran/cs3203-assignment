@@ -5,7 +5,8 @@ def sum(arr):
         sum = sum + i
 
     return(sum)
-
+#change
+#change
 def product(arr):
     product = 1
 
